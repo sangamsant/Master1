@@ -1,0 +1,6 @@
+sybase		90		B
+subject 	marks 		Rank
+second git file for temporary checks 
+Pythosn		100		a
+Oracle 		100		A
+C++		100		A
